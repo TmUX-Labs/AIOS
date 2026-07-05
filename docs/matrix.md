@@ -38,4 +38,5 @@ kernel.c에서 matrix engine의 정상 가동 여부를 확인하기 위해서 �
                         └ 11.0  12.0 ┘
 
 
+
 ![alt text](image.png)
